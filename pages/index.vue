@@ -69,5 +69,7 @@ export default {
 
 .links {
   padding-top: 15px;
+  width: 100px;
+  height: 50px;
 }
 </style>
