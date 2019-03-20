@@ -21,12 +21,12 @@ module.exports = {
         href: '//cdn.jsdelivr.net/npm/vant@1.6/lib/index.css'
       }
     ],
-    script: [
-      {
-        type: 'text/javascript',
-        src: 'http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js',
-      }
-    ]
+    // script: [
+    //   {
+    //     type: 'text/javascript',
+    //     src: 'http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js',
+    //   }
+    // ]
   },
 
   /*
